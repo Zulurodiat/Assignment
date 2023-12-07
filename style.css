@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+    margin: 12rem 12rem 12rem 12rem;
+    
+}
+.lady-img{
+    border-radius: 50%;
+}
+main{
+    margin:50px auto;
+    background-color: white;
+    width: 70pc;
+    height:auto;
+    display:flex;
+}
+.section2{
+    padding:40px;
+}
+h3{
+    display: inline-block;
+}
+.p{
+    display:inline-block;   
+}
+.botton{
+    border-radius: 50%;
+    width:50px;
+    height:50px;
+    background-color:blue;
+    display: flex;
+}
+h1{
+    font-weight: bolder 25px;
+    font-style: manrope;
+}
