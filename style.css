@@ -1,35 +1,40 @@
 body{
-    background-color: beige;
-    margin: 12rem 12rem 12rem 12rem;
+    background-color: rgb(244, 245, 247);
+    margin: 20rem 20rem 20rem 20rem;
     
+}
+.section1{
+    width: 30pc;
+    height: 30pc;
 }
 .lady-img{
     border-radius: 50%;
+    padding-top: 20px;
 }
 main{
     margin:50px auto;
     background-color: white;
-    width: 70pc;
-    height:auto;
+    width: 80pc;
+    height:30pc;
     display:flex;
 }
 .section2{
     padding:40px;
-}
-h3{
-    display: inline-block;
+display: inline-block;
 }
 .p{
-    display:inline-block;   
+    display:inline-block;  
+    font-size: x-large; 
 }
 .botton{
     border-radius: 50%;
-    width:50px;
-    height:50px;
-    background-color:blue;
-    display: flex;
+    width: 2pc;
+    height: 2pc;
+    background-color:rgb(207, 207, 241);
 }
 h1{
-    font-weight: bolder 25px;
-    font-style: manrope;
+    font-size: xx-large
+}
+p{
+    font-size: larger;
 }
